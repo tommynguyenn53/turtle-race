@@ -1,4 +1,4 @@
-# Turtle Race 🐢🏁
+# Turtle Race 🐢 🏁
 
 A fun and interactive turtle racing game built with Python's `turtle` graphics module. Users place a bet on which colored turtle will win the race, then watch the turtles race across the screen in real time!
 
